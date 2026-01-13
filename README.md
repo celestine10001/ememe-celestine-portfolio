@@ -2,7 +2,7 @@
 <header>
   <h1>Ememe Celestine Chinaecherem</h1>
   <p class="tagline">Multidisciplinary Professional | Admin & Operations Support | Research & Policy | Agribusiness & Food Science</p>
-  <p>📍 Nigeria | 🌍 Open to Remote Opportunities</p>
+  <p>📍  | 🌍 Open to Remote Opportunities</p>
 </header>
 
 <section>
@@ -249,7 +249,8 @@ Passionate about educational reform and learning development. Equipped with know
   <p><em>"I am open to opportunities where I can contribute value, grow professionally, and support organizational success."</em></p>
 </section>
 
-<footer>
+<footer>![1000172880](https://github.com/user-attachments/assets/73d75181-a03d-4d90-85c7-1eb986ff1df4)
+
   <p>© 2026 Ememe Celestine Chinaecherem | Professional Portfolio</p>
 </footer>
 
