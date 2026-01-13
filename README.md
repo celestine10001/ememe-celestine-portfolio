@@ -1,5 +1,5 @@
 
-<header>
+<header> 
   <h1>Ememe Celestine Chinaecherem</h1>
   <p class="tagline">Multidisciplinary Professional | Admin & Operations Support | Research & Policy | Agribusiness & Food Science</p>
   <p>📍  | 🌍 Open to Remote Opportunities</p>
@@ -253,6 +253,7 @@ Passionate about educational reform and learning development. Equipped with know
 
   <p>© 2026 Ememe Celestine Chinaecherem | Professional Portfolio</p>
 </footer>
+![1000200216](https://github.com/user-attachments/assets/a0a6438a-1cfc-4326-a418-9a95334d24df)
 
 </body>
 </html>
