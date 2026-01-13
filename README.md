@@ -245,15 +245,14 @@ Passionate about educational reform and learning development. Equipped with know
       <h2>twitter(X):https://x.com/celeboboE55408?t=9czUncnmsfKrTWmvXHSPCA&s=09
   <p><strong>Name:</strong> Ememe Celestine Chinaecherem</p>
   <p><strong>Email:</strong> your-ememe.celestine12@gmail.com</p>
+  ![1000200216](https://github.com/user-attachments/assets/image.jpg/a0a6438a-1cfc-4326-a418-9a95334d24df)
   
   <p><em>"I am open to opportunities where I can contribute value, grow professionally, and support organizational success."</em></p>
 </section>
 
-<footer>![1000172880](https://github.com/user-attachments/assets/73d75181-a03d-4d90-85c7-1eb986ff1df4)
 
   <p>© 2026 Ememe Celestine Chinaecherem | Professional Portfolio</p>
-</footer>
-![1000200216](https://github.com/user-attachments/assets/a0a6438a-1cfc-4326-a418-9a95334d24df)
+
 
 </body>
 </html>
