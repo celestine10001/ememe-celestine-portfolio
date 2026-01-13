@@ -34,16 +34,14 @@ One of the most important lessons I’ve learned is the value of consistency. Da
 Entrepreneurship has strengthened my problem-solving skills, resilience, and ability to work independently. These skills translate seamlessly into administrative and operations roles, where organization, accountability, and initiative are essential.
 This experience continues to shape my professional approach and reinforces my commitment to efficiency and results-driven work.
 
-</section>
 <header>h2>
 📝Title
-  How I Prioritize Tasks While Supporting Multiple Teams Remotely
+How I Prioritize Tasks While Supporting Multiple Teams Remotely
 In fast-paced work environments, especially remote roles, managing multiple urgent requests requires structure, clarity, and discipline. Over time, I have developed a system that allows me to remain productive while supporting different team members efficiently.
 First, I begin each day by reviewing all pending tasks and categorizing them based on urgency and impact. Tasks that directly affect operations or deadlines are prioritized first. I rely heavily on digital tools such as Google Calendar, task lists, and shared documents to stay organized.
 Communication is also critical. I ensure expectations are clearly aligned by confirming deadlines and asking clarifying questions when necessary. This helps avoid errors and unnecessary rework.
 Finally, I build flexibility into my workflow. Unexpected tasks are inevitable, so I allocate buffer time to handle urgent requests without disrupting planned work.
 This structured yet flexible approach has helped me remain reliable, efficient, and trusted in administrative and operational support roles.
-
 
 <section>
   <h2>💼 Professional Experience</h2>
@@ -63,7 +61,7 @@ This structured yet flexible approach has helped me remain reliable, efficient, 
     <li>Supported multiple team members with competing priorities</li>
     <li>Ensured smooth workflow and task prioritization</li>
   </ul>
-</section>
+</section
 <h2>work history</h2>
   </section>
   <ul>
@@ -161,11 +159,10 @@ Partnered with local health workers to organize vaccination awareness campaigns 
 
 <section>
   <h2>🎓 Education</h2>
-  <p><strong>B.Sc. Political Science</strong><br </p> University of Calabar 
-<p><strong>WAEC. West Africa examination council </strong><br </p> st Patrick's model secondary school Umuahia Abia State 
- <p><strong>first school leaving certificate</strong><br </p> Old court primary school 1 Aba 
+  <p><strong>B.Sc. Political Science</strong><br</p> University of Calabar 
+<p><strong>WAEC.West Africa examination council</strong><br</p>  st Patrick's model secondary school Umuahia Abia State 
+ <p><strong <p> First school leaving certificate</strong><br</p> Old court primary school 1 Aba 
 </section>
-
 <section>
   <h2>🌱 Projects & Initiatives</h2>
   <ul>
