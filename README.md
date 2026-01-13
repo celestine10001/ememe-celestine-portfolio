@@ -2,7 +2,7 @@
 <header> 
   <h1>Ememe Celestine Chinaecherem</h1>
   <p class="tagline">Multidisciplinary Professional | Admin & Operations Support | Research & Policy | Agribusiness & Food Science</p>
-  <p>📍  | 🌍 Open to Remote Opportunities</p>
+  <p>📍 Available  | 🌍 Open to new opportunity , New work And Remote Opportunities</p>
 </header>
 
 <section>
@@ -18,7 +18,7 @@
     <li>Calendar & Email Management</li>
     <li>Research, Data Collection & Reporting</li>
     <li>Customer Service & Client Relations</li>
-    <li>Public Policy & Social Research</li>
+    <li>Public Policy & Social Research</li>and 
     <li>Agribusiness & Poultry Farm Management</li>
     <li>Documentation & Record Keeping</li>
     <li>Microsoft Office & Google Workspace</li>
@@ -242,17 +242,12 @@ Passionate about educational reform and learning development. Equipped with know
    <h2>Whatsapp:+2348155252626
 		<h2>Facebook:https://www.facebook.com/celestine10001
 	   <h2>Discord:@Celestine10001 
-      <h2>twitter(X):https://x.com/celeboboE55408?t=9czUncnmsfKrTWmvXHSPCA&s=09
+      <h2>X:https://x.com/celeboboE55408?t=9czUncnmsfKrTWmvXHSPCA&s=09
   <p><strong>Name:</strong> Ememe Celestine Chinaecherem</p>
   <p><strong>Email:</strong> your-ememe.celestine12@gmail.com</p>
-  ![1000200216](https://github.com/user-attachments/assets/image.jpg/a0a6438a-1cfc-4326-a418-9a95334d24df)
-  
   <p><em>"I am open to opportunities where I can contribute value, grow professionally, and support organizational success."</em></p>
 </section>
 
-
   <p>© 2026 Ememe Celestine Chinaecherem | Professional Portfolio</p>
-
-
 </body>
 </html>
