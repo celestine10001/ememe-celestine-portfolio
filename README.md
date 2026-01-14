@@ -8,9 +8,8 @@
 <h2>X:https://x.com/celeboboE55408?t=9czUncnmsfKrTWmvXHSPCA&s=09
 <h2>Discord:@Celestine10001
 <h2>LinkedIn:https://www.linkedin.com/in/celestine-chinaecherem-ememe-54308a358?utm_source=share&utm_campaign=share_via&utm_content=profil
-<h2><strong>Email:</strong> your-ememe.celestine12@gmail.com</p>
+<h2><strong>Email:</strong> your-ememe.celestine12@gmail.com
   <p>📍 Available  | 🌍 Open to new opportunity , New work And Remote Opportunities</p>
-</header>
 <section>
   👋 About Me
   <p>I am a results-driven and versatile professional with a strong background in administrative support, research, public policy, customer service, and agribusiness. I am a first-generation graduate with hands-on experience across corporate, nonprofit, and entrepreneurial environments.</p>
