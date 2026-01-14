@@ -32,7 +32,7 @@
     <li>Remote Work & Collaboration Tools</li>
   </ul>
 <header>
- 📝Title
+📝Title
 What Running a Poultry Farm Taught Me About Operations and Management
 Managing a poultry and organic farming business has taught me lessons that extend far beyond agriculture. As the founder of Celestine Poultry Farm, I handle planning, record-keeping, budgeting, customer relations, and daily operations.
 One of the most important lessons I’ve learned is the value of consistency. Daily monitoring, accurate documentation, and timely decision-making directly impact outcomes. I also learned how to manage limited resources effectively while maintaining quality standards.
@@ -40,7 +40,8 @@ Entrepreneurship has strengthened my problem-solving skills, resilience, and abi
 
 This experience continues to shape my professional approach and reinforces my commitment to efficiency and results-driven work.
 
-<header>📝Title
+<header> 
+📝Title
 How I Prioritize Tasks While Supporting Multiple Teams Remotely
 In fast-paced work environments, especially remote roles, managing multiple urgent requests requires structure, clarity, and discipline. Over time, I have developed a system that allows me to remain productive while supporting different team members efficiently.
 First, I begin each day by reviewing all pending tasks and categorizing them based on urgency and impact. Tasks that directly affect operations or deadlines are prioritized first. I rely heavily on digital tools such as Google Calendar, task lists, and shared documents to stay organized.
@@ -66,8 +67,8 @@ This structured yet flexible approach has helped me remain reliable, efficient, 
     <li>Ensured smooth workflow and task prioritization</li>
   </ul>
 <h2>work history</h2>
-
   <ul>
+    
 <li> University  of  Calabar -Political Science
 Education Department
 Calabar,Nigeria
@@ -160,14 +161,10 @@ Partnered with local health workers to organize vaccination awareness campaigns 
     <li>Produced structured academic reports and findings</li>
   </ul>
 </section>
-
 <section>
-	
   <h2>🎓 Education</h2>
-  <p><strong>B.Sc.Political Science</strong><br</p>University of Calabar
-	  
+  <p><strong>B.Sc.Political Science</strong><br</p>University of Calabar 
 <p><strong>WAEC.West Africa examination council</strong<br</p>St Patrick's model secondary school Umuahia Abia State 
- 
  <p><strong <p> First school leaving certificate</p>Old court primary school 1 Aba 
 <section>
   <h2>🌱 Projects & Initiatives</h2>
