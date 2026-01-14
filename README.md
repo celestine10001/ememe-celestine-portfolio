@@ -172,7 +172,7 @@ Partnered with local health workers to organize vaccination awareness campaigns 
 <section> 
 	
   <h2>🎓 Education</h2>
-  <p><strong>B.Sc.Political Science</strong><:University of Calabar.  
+  <p><strong>B.Sc.Political Science</strong> :University of Calabar.  
 <p><strong>WAEC.West Africa examination council :St Patrick's model secondary
 	school Umuahia Abia State.
 	<p><First school leaving certificate :Old court primary school 1 Aba.
