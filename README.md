@@ -4,11 +4,13 @@
   <p class="tagline">Multidisciplinary Professional | Admin & Operations Support | Research & Policy | Agribusiness & Food Science</p>
  <h2>📬 Contact:+2348161382732 
  <h2>Whatsapp:+2348155252626
+<h2>Email:ememe.celestine12@gmail.com
 <h2>Facebook:https://www.facebook.com/celestine10001 
 <h2>X:https://x.com/celeboboE55408?t=9czUncnmsfKrTWmvXHSPCA&s=09
 <h2>Discord:@Celestine10001
 <h2>LinkedIn:https://www.linkedin.com/in/celestine-chinaecherem-ememe-54308a358?utm_source=share&utm_campaign=share_via&utm_content=profil
-<h2><strong>Email:</strong> your-ememe.celestine12@gmail.com
+
+<h2>Email:ememe.celestine12@gmail.com
   <p>📍 Available  | 🌍 Open to new opportunity , New work And Remote Opportunities</p>
 <section>
 	
@@ -161,12 +163,18 @@ Partnered with local health workers to organize vaccination awareness campaigns 
     <li>Produced structured academic reports and findings</li>
   </ul>
 </section>
-<section>
+<section> 
+	
   <h2>🎓 Education</h2>
-  <p><strong>B.Sc.Political Science</strong><br</p>University of Calabar 
-<p><strong>WAEC.West Africa examination council</strong<br</p>St Patrick's model secondary school Umuahia Abia State 
+  <p><strong>B.Sc.Political Science</strong><br</p>University of Calabar.
+	  
+<p><strong>WAEC.West Africa examination council</strong<br</p>St Patrick's model secondary
+	school Umuahia Abia State.
+	
  <p><strong <p> First school leaving certificate</p>Old court primary school 1 Aba 
+	 
 <section>
+	
   <h2>🌱 Projects & Initiatives</h2>
   <ul>
     <li>Child Nutrition Initiative (Planned) – Combating vitamin A deficiency in school children</li>
@@ -174,8 +182,10 @@ Partnered with local health workers to organize vaccination awareness campaigns 
     <li>Remote Job Applications & Skills Development Projects</li>
   </ul>
 </section>
+
 <header><h2>awards and honours</h2>
 </section>
+	
   <ul>
 <li> Academic Excellence Award – University of Calabar	2024
 <li> Achieved top performance in Political Science studies.Appreciation Letter – Celestine Poultry Farm Community Program	2023
@@ -206,6 +216,7 @@ Honored for impactful contributions and consistent support in child and communit
     <li>Mission-driven mindset with business practicality</li>
   </ul>
 </section>
+
 
 <h2>personal skills</h2>
 <ul>
@@ -244,8 +255,14 @@ Passionate about educational reform and learning development. Equipped with know
 
 
 <section>
+	
   <p><em>"I am open to opportunities where I can contribute value, grow professionally, and support organizational success."</em></p>
+
+  
 </section>
+
+
+
 
 
 
