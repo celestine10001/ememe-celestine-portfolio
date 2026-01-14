@@ -15,7 +15,15 @@
 	
   👋 About Me
   <p>I am a results-driven and versatile professional with a strong background in administrative support, research, public policy, customer service, and agribusiness. I am a first-generation graduate with hands-on experience across corporate, nonprofit, and entrepreneurial environments.</p>
-  <p>I bring together academic insight, practical business experience, and digital skills to help organizations grow, stay organized, and achieve their goals.</p>
+  <p>I bring together academic insight, practical business experience, and digital skills to help organizations grow, stay organized, and achieve their goals.
+I am a detail-oriented and disciplined professional with experience in administrative support, operations coordination, documentation, customer service, and record management, with strong alignment to banking and financial services environments.
+
+I bring hands-on experience in handling records, managing schedules, preparing reports, coordinating daily operations, and supporting multiple stakeholders, all of which are critical to effective banking operations and customer satisfaction.
+
+As the Founder and CEO of Celestine Poultry Farm, I manage financial records, inventory tracking, budgeting, supplier coordination, and customer transactions. This role has strengthened my attention to detail, accountability, compliance awareness, and service delivery mindset — skills directly transferable to banking operations and cash-related roles.
+I hold a B.Sc. in Political Science and completed an academic research project that involved structured data collection, analysis, reporting, and ethical handling of information — competencies essential in regulated environments such as banking.
+
+I am professional, trustworthy, and process-driven, with a strong commitment to accuracy, confidentiality, and customer service excellence. I am currently seeking opportunities in banking operations, customer service, teller/cash officer, administrative support, and entry-level banking </p>
 </section>
 
 <section>
@@ -167,10 +175,10 @@ Partnered with local health workers to organize vaccination awareness campaigns 
   <h2>🎓 Education</h2>
   <p><strong>B.Sc.Political Science</strong><br</p>University of Calabar.
 	  
-<p><strong>WAEC.West Africa examination council</strong<br</p>St Patrick's model secondary
+<p><strong>WAEC.West Africa examination council St Patrick's model secondary
 	school Umuahia Abia State.
 	
- <p><strong>First school leaving certificate</p>Old court primary school 1 Aba 
+ <p><strong>First school leaving certificate Old court primary school 1 Aba 
 	 
 <section>
 	
