@@ -19,7 +19,7 @@
 </section>
 
 <section>
-</h2>🧠 Core Skills</h2>
+🧠 Core Skills
   <ul>
     <li>Administrative & Executive Support</li>
     <li>Calendar & Email Management</li>
@@ -32,15 +32,15 @@
     <li>Remote Work & Collaboration Tools</li>
   </ul>
 <header>
-📝Title
+ 📝Title
 What Running a Poultry Farm Taught Me About Operations and Management
-
 Managing a poultry and organic farming business has taught me lessons that extend far beyond agriculture. As the founder of Celestine Poultry Farm, I handle planning, record-keeping, budgeting, customer relations, and daily operations.
 One of the most important lessons I’ve learned is the value of consistency. Daily monitoring, accurate documentation, and timely decision-making directly impact outcomes. I also learned how to manage limited resources effectively while maintaining quality standards.
 Entrepreneurship has strengthened my problem-solving skills, resilience, and ability to work independently. These skills translate seamlessly into administrative and operations roles, where organization, accountability, and initiative are essential.
+
 This experience continues to shape my professional approach and reinforces my commitment to efficiency and results-driven work.
-<header>h2>
-📝Title
+
+<header>h2>📝Title
 How I Prioritize Tasks While Supporting Multiple Teams Remotely
 In fast-paced work environments, especially remote roles, managing multiple urgent requests requires structure, clarity, and discipline. Over time, I have developed a system that allows me to remain productive while supporting different team members efficiently.
 First, I begin each day by reviewing all pending tasks and categorizing them based on urgency and impact. Tasks that directly affect operations or deadlines are prioritized first. I rely heavily on digital tools such as Google Calendar, task lists, and shared documents to stay organized.
@@ -239,9 +239,14 @@ Strong foundation in political theories, public policy analysis, governance syst
 Passionate about educational reform and learning development. Equipped with knowledge in pedagogy, curriculum planning and education policy. Committed to fostering inclusive, equitable, and quality education for all learners.
 
 
+
+
+
 <section>
   <p><em>"I am open to opportunities where I can contribute value, grow professionally, and support organizational success."</em></p>
 </section>
+
+
 
 
   <p>© 2026 Ememe Celestine Chinaecherem | Professional Portfolio</p>
