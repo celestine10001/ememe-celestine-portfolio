@@ -13,7 +13,7 @@
 </header>
 
 <section>
-  <h2>👋 About Me</h2>
+  👋 About Me</h2>
   <p>I am a results-driven and versatile professional with a strong background in administrative support, research, public policy, customer service, and agribusiness. I am a first-generation graduate with hands-on experience across corporate, nonprofit, and entrepreneurial environments.</p>
   <p>I bring together academic insight, practical business experience, and digital skills to help organizations grow, stay organized, and achieve their goals.</p>
 </section>
