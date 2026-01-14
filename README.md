@@ -9,7 +9,6 @@
 <h2>X:https://x.com/celeboboE55408?t=9czUncnmsfKrTWmvXHSPCA&s=09
 <h2>Discord:@Celestine10001
 <h2>LinkedIn:https://www.linkedin.com/in/celestine-chinaecherem-ememe-54308a358?utm_source=share&utm_campaign=share_via&utm_content=profil
-
 <h2>Email:ememe.celestine12@gmail.com
   <p>📍 Available  | 🌍 Open to new opportunity , New work And Remote Opportunities</p>
 <section>
@@ -171,7 +170,7 @@ Partnered with local health workers to organize vaccination awareness campaigns 
 <p><strong>WAEC.West Africa examination council</strong<br</p>St Patrick's model secondary
 	school Umuahia Abia State.
 	
- <p><strong <p> First school leaving certificate</p>Old court primary school 1 Aba 
+ <p><strong>First school leaving certificate</p>Old court primary school 1 Aba 
 	 
 <section>
 	
@@ -184,8 +183,7 @@ Partnered with local health workers to organize vaccination awareness campaigns 
 </section>
 
 <header><h2>awards and honours</h2>
-</section>
-	
+
   <ul>
 <li> Academic Excellence Award – University of Calabar	2024
 <li> Achieved top performance in Political Science studies.Appreciation Letter – Celestine Poultry Farm Community Program	2023
