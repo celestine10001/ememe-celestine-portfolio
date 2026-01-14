@@ -13,7 +13,7 @@
 </header>
 
 <section>
-  👋 About Me</h2>
+  👋 About Me
   <p>I am a results-driven and versatile professional with a strong background in administrative support, research, public policy, customer service, and agribusiness. I am a first-generation graduate with hands-on experience across corporate, nonprofit, and entrepreneurial environments.</p>
   <p>I bring together academic insight, practical business experience, and digital skills to help organizations grow, stay organized, and achieve their goals.</p>
 </section>
@@ -31,7 +31,6 @@
     <li>Microsoft Office & Google Workspace</li>
     <li>Remote Work & Collaboration Tools</li>
   </ul>
-</section>
 <header>
 📝Title
 What Running a Poultry Farm Taught Me About Operations and Management
@@ -40,7 +39,6 @@ Managing a poultry and organic farming business has taught me lessons that exten
 One of the most important lessons I’ve learned is the value of consistency. Daily monitoring, accurate documentation, and timely decision-making directly impact outcomes. I also learned how to manage limited resources effectively while maintaining quality standards.
 Entrepreneurship has strengthened my problem-solving skills, resilience, and ability to work independently. These skills translate seamlessly into administrative and operations roles, where organization, accountability, and initiative are essential.
 This experience continues to shape my professional approach and reinforces my commitment to efficiency and results-driven work.
-
 <header>h2>
 📝Title
 How I Prioritize Tasks While Supporting Multiple Teams Remotely
@@ -50,7 +48,6 @@ Communication is also critical. I ensure expectations are clearly aligned by con
 Finally, I build flexibility into my workflow. Unexpected tasks are inevitable, so I allocate buffer time to handle urgent requests without disrupting planned work.
 This structured yet flexible approach has helped me remain reliable, efficient, and trusted in administrative and operational support roles.
 
-<section>
   <h2>💼 Professional Experience</h2>
   <h3>CEO / Founder – Celestine Poultry Farm</h3>
   <p><em>Calabar, Cross River State, Nigeria</em></p>
@@ -68,7 +65,6 @@ This structured yet flexible approach has helped me remain reliable, efficient, 
     <li>Supported multiple team members with competing priorities</li>
     <li>Ensured smooth workflow and task prioritization</li>
   </ul>
-</section
 <h2>work history</h2>
   </section>
   <ul>
