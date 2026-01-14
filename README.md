@@ -11,12 +11,14 @@
 <h2><strong>Email:</strong> your-ememe.celestine12@gmail.com
   <p>📍 Available  | 🌍 Open to new opportunity , New work And Remote Opportunities</p>
 <section>
+	
   👋 About Me
   <p>I am a results-driven and versatile professional with a strong background in administrative support, research, public policy, customer service, and agribusiness. I am a first-generation graduate with hands-on experience across corporate, nonprofit, and entrepreneurial environments.</p>
   <p>I bring together academic insight, practical business experience, and digital skills to help organizations grow, stay organized, and achieve their goals.</p>
 </section>
 
 <section>
+	
 🧠 Core Skills
   <ul>
     <li>Administrative & Executive Support</li>
@@ -38,7 +40,7 @@ Entrepreneurship has strengthened my problem-solving skills, resilience, and abi
 
 This experience continues to shape my professional approach and reinforces my commitment to efficiency and results-driven work.
 
-<header>h2>📝Title
+<header>📝Title
 How I Prioritize Tasks While Supporting Multiple Teams Remotely
 In fast-paced work environments, especially remote roles, managing multiple urgent requests requires structure, clarity, and discipline. Over time, I have developed a system that allows me to remain productive while supporting different team members efficiently.
 First, I begin each day by reviewing all pending tasks and categorizing them based on urgency and impact. Tasks that directly affect operations or deadlines are prioritized first. I rely heavily on digital tools such as Google Calendar, task lists, and shared documents to stay organized.
@@ -64,7 +66,7 @@ This structured yet flexible approach has helped me remain reliable, efficient, 
     <li>Ensured smooth workflow and task prioritization</li>
   </ul>
 <h2>work history</h2>
-  </section>
+
   <ul>
 <li> University  of  Calabar -Political Science
 Education Department
@@ -149,6 +151,7 @@ Partnered with local health workers to organize vaccination awareness campaigns 
 
 
 <section>
+	
   <h2>📚 research & academic experience</h2>
   <p><strong>Undergraduate Research Project – University of Calabar</strong></p>
   <p>Public Policy, Socio-Ethical Issues and Students' Academic Performance in Ukwa L.G.A, Abia State</p>
@@ -159,6 +162,7 @@ Partnered with local health workers to organize vaccination awareness campaigns 
 </section>
 
 <section>
+	
   <h2>🎓 Education</h2>
   <p><strong>B.Sc.Political Science</strong><br</p>University of Calabar
 	  
@@ -195,6 +199,7 @@ Honored for impactful contributions and consistent support in child and communit
 <li> Volunteer Researcher, Global Network for Public Health Scholars (GNPHS	2023Assisting with child nutrition advocacy and school feeding initiatives.
 
 <section>
+	
   <h2>🏆 Strengths & What Makes Me Unique</h2>
   <ul>
     <li>First-generation graduate with strong resilience and adaptability</li>
@@ -204,6 +209,7 @@ Honored for impactful contributions and consistent support in child and communit
     <li>Mission-driven mindset with business practicality</li>
   </ul>
 </section>
+
 <h2>personal skills</h2>
 <ul>
   <li>vehicle maintenance and autocare
